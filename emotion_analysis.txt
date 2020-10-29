@@ -1,0 +1,36 @@
+1,0.0,"Enter Proper Picture"
+
+2,1048.0,"The people are 3.15 % disappointed, 89.57 % interested and 7.29 % neutral"
+
+3,2096.0,"Enter Proper Picture"
+
+4,3144.0,"Enter Proper Picture"
+
+5,4192.0,"The people are 14.12 % disappointed, 43.2 % interested and 42.68 % neutral"
+
+6,5240.0,"Enter Proper Picture"
+
+7,6288.0,"The people are 0.17 % disappointed, 99.64 % interested and 0.19 % neutral"
+
+8,7336.0,"Enter Proper Picture"
+
+9,8384.0,"The people are 4.04 % disappointed, 41.83 % interested and 54.13 % neutral"
+
+10,9432.0,"The people are 0.26 % disappointed, 97.47 % interested and 2.27 % neutral"
+
+11,10480.0,"The people are 20.04 % disappointed, 32.59 % interested and 47.37 % neutral"
+
+12,11528.0,"Enter Proper Picture"
+
+13,12576.0,"Enter Proper Picture"
+
+14,13624.0,"Enter Proper Picture"
+
+15,14672.0,"The people are 11.0 % disappointed, 26.67 % interested and 62.33 % neutral"
+
+16,15720.0,"The people are 10.92 % disappointed, 28.78 % interested and 60.3 % neutral"
+
+17,16768.0,"The people are 17.07 % disappointed, 30.52 % interested and 52.41 % neutral"
+
+18,17816.0,"The people are 3.92 % disappointed, 41.99 % interested and 54.09 % neutral"
+

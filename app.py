@@ -80,7 +80,7 @@ def upload():
         return result
     return None
 @app.route('/predict_terminal', methods=['GET', 'POST'])
-def uplaod():
+def upload_from_terminal():
     if request.method == 'POST':
         f = request.files['image']
 

@@ -15,15 +15,16 @@ from gevent.pywsgi import WSGIServer
 import requests
 import csv
 
-def write_to_csv(id , result):
-    filename='emotion_analysis.csv'
+def write_to_csv(idn , result):
+    filename='emotion_analysis.txt'
     f=open(filename,'a')
-    f.write(str(id) + ',' + result + '\n')
+    output = str(idn) + ',' + result + '\n'
+    f.write(output)
     f.close()
-id=0;
+idn=0;
 while(1):
     filename=input("Enter Filename:")
-    id+=1
+    idn+=1
     if filename == 'exit':
         break
     else:
@@ -33,7 +34,4 @@ while(1):
         output = out.text
         # convert server response into JSON format.
         print(output)
-        write_to_csv(id,output)
-
-
-#filepath = '/home/nash/Pictures/WhatsApp Image 2020-10-26 at 02.33.54.jpeg'
+        write_to_csv(idn,output)
